@@ -1,0 +1,19 @@
+
+.text-deca-none{
+    text-decoration: none;
+}
+  .center-text{
+    text-align: center;
+  }
+  .left-text{
+    text-align: left;
+  }
+  .right-text{
+    text-align: right;
+  }
+  .color{
+    color: aqua;
+  }
+  .back{
+    background-color: blue;(150, 150, 150);
+  }

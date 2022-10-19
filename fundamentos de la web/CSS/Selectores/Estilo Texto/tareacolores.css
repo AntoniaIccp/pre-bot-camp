@@ -1,0 +1,29 @@
+h1{
+    color: white;
+font-family: cursive;
+background-color: black;
+font-weight: bold;
+}
+
+span{
+    color: aqua;
+}
+h2{
+
+    font-weight: lighter;
+    font-style: italic;
+    font-family: cursive;
+    background-color: purple;
+    color:white;
+    text-align: center;
+}
+
+h3{
+    font-family: monospace;
+    font-weight: lighter;
+    background-color: cornflowerblue;
+    text-align: right;
+    text-decoration: underline;
+    color: blue;
+
+}
