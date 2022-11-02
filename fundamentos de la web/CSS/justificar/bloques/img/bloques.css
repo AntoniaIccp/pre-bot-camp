@@ -1,0 +1,48 @@
+/* *{
+    padding: 0;
+    margin: 0ch;
+
+}
+
+body{
+height: 150px;
+width: 150px;
+background-color: aqua;
+}
+
+.row{
+    display: flex;
+}
+.negro-fondo{
+background-color: black;
+} */
+
+.principal{
+    width: 800px;
+    background-color: aliceblue;
+    margin: 0 auto;
+    text-align: center
+}
+img.octocat {
+    height: 200px;
+}
+
+.row{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    justify-content: space-between;
+
+
+}
+.rosado{
+    background-color: pink;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+}
+
+.azul{
+    background-color: aqua;
+   
