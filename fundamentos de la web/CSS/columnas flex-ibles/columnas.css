@@ -1,0 +1,25 @@
+.row {
+display:flex;
+padding: 15px;
+margin: 10px;
+
+}
+
+.col {
+
+    flex: 4;
+    padding: 15px;
+    margin: 10px;
+    background-color: aqua;
+
+}
+
+
+
+.col-2{
+flex: 1;
+padding: 15px;
+margin: 10px;
+background-color: aqua;
+
+}
